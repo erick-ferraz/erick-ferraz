@@ -25,13 +25,11 @@ Entusiasta de **Inteligência Artificial**, sigo aplicando e aprofundando meus c
 
 ### 🛠️ Stack
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="50" style="margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="50" style="margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="60" height="50" style="margin-right: 12px;" />
-  <i class="devicon-quarkus-plain-wordmark colored" style="font-size: 54px; margin-right: 12px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-plain-wordmark.svg" alt="Quarkus" width="60" height="50" style="margin-right: 12px;" />
 </p>
 
 **Cloud & Infra**
@@ -61,7 +59,7 @@ Entusiasta de **Inteligência Artificial**, sigo aplicando e aprofundando meus c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="60" height="50" style="margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" alt="GitHub Actions" width="60" height="50" style="margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width="60" height="50" style="margin-right: 12px;" />
-  <i class="devicon-argocd-plain-wordmark colored" style="font-size: 52px; margin-right: 12px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original-wordmark.svg" alt="ArgoCD" width="60" height="50" style="margin-right: 12px;" />
 </p>
 
 ---
